@@ -16,13 +16,13 @@ Se implementan las siguientes caracteristicas:
 
 <p>Vista de desktop</p>
 <div align='center'>
-    <img  src='https://imgur.com/ozFuiBq'>
+    <img  src='https://i.imgur.com/ozFuiBq.png'>
 </div>
 
 <p>Vista de mobile</p>
 <div align='center'>
-    <img  src='https://imgur.com/TeEGbrS'>
+    <img  src='https://i.imgur.com/TeEGbrS.png'>
 </div>
 <div align='center'>
-    <img  src='https://imgur.com/9IyXKcK'>
+    <img  src='https://i.imgur.com/9IyXKcK.png'>
 </div>
